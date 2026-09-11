@@ -1,5 +1,5 @@
 
-# Running AWS IoT Greengrass V2 in a Docker Container  
+# Running AWS IoT Greengrass V2 in a Docker Container 
 ## Overview  
 **This repository provides example/reference Docker configurations for running AWS IoT Greengrass V2 in containers.** It is intended as a starting point for containerized Greengrass deployments and may require customization for production use.
 
